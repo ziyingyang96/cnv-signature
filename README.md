@@ -26,5 +26,5 @@ The script `CNAttention.py` takes the CNA profiles as input and output the atten
 
 The users can visualize the selected CNA patterns on [progenetix](https://progenetix.org/) database by simply type in the feature gene names of a specific cancer type.
 
-![sample plot](https://github.com/ziyingyang96/cnv-signature/blob/main/sampleplots.png)
+![sample plot](https://github.com/ziyingyang96/cnv-heterogeneity/blob/main/pgxbs-kftvgk90.png)
 
